@@ -142,6 +142,15 @@ mapbox_token.txt
 data/*.csv
 data/*.zip
 data/*.rpt
+data/*.dat
+
+# Large data files that exceed GitHub's 100MB limit
+data/BLACKLAND_CAPITAL_GROUP_RECORDER_0001.csv
+data/BLACKLAND_CAPITAL_GROUP_TAXASSESSOR_0001.csv
+data/PROPERTY_DATA_SAMPLE_CSV_TAXASSESSOR_0023.csv
+data/PROPERTY_DATA_SAMPLE_CSV_TAXASSESSOR_0029.csv
+data/PROPERTY_DATA_SAMPLE_CSV_RECORDER_0023.csv
+data/PROPERTY_DATA_SAMPLE_CSV_RECORDER_0029.csv
 
 # Backup files
 *.bak
