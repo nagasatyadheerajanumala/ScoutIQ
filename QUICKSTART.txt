@@ -1,0 +1,43 @@
+╔══════════════════════════════════════════════════════════════╗
+║                    🚀 ScoutIQ Quick Start                    ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  ✅ CLEAN SETUP COMPLETE                                     ║
+║     • Old frontend/ removed                                  ║
+║     • Only React frontend remains                            ║
+║     • Backend running on :8000                               ║
+║                                                              ║
+║  🎯 YOUR ONE COMMAND:                                        ║
+║                                                              ║
+║     cd /Users/dheeraj/Desktop/ScoutIQ/frontend              ║
+║     npm start                                                ║
+║                                                              ║
+║  🌐 YOUR ONE URL:                                            ║
+║                                                              ║
+║     http://localhost:3000                                    ║
+║                                                              ║
+║  📊 BACKEND STATUS:                                          ║
+║     ✅ Running: http://localhost:8000                        ║
+║     ✅ Database: Connected (19 tables)                       ║
+║     ✅ Query Test: Working (2 properties)                    ║
+║                                                              ║
+║  🎨 WHAT YOU GET:                                            ║
+║     • Interactive Mapbox map                                 ║
+║     • Property search + filters                              ║
+║     • AI insights (Buy/Hold/Watch)                           ║
+║     • Color-coded markers                                    ║
+║     • Layer toggles                                          ║
+║     • Material-UI interface                                  ║
+║                                                              ║
+║  📝 FIRST TIME ONLY:                                         ║
+║     cd frontend && npm install    (takes 5-10 min)          ║
+║                                                              ║
+║  🛑 TO STOP:                                                 ║
+║     Press Ctrl+C                                             ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+
+Quick Copy-Paste:
+
+cd /Users/dheeraj/Desktop/ScoutIQ/frontend && npm start
+

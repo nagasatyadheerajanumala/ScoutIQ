@@ -1,0 +1,15 @@
+
+ATTOM Data Solutions 5.0 Bulk Data Extract
+Tax Assessor Data
+2025-04-10 15:50:10
+
+FIPs Code        State    County                                                Record Count
+06111            CA       Ventura                                                     279704      
+08035            CO       Douglas                                                     162568      
+12031            FL       Duval                                                       396035      
+27123            MN       Ramsey                                                      168077      
+37119            NC       Mecklenburg                                                 411319      
+TOTAL RECORDS                                                                        1417703     
+
+Files Included in PROPERTY_DATA_SAMPLE_CSV_TAXASSESSOR_0029.zip
+	PROPERTY_DATA_SAMPLE_CSV_TAXASSESSOR_0029.csv

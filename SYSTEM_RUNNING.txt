@@ -1,0 +1,39 @@
+╔══════════════════════════════════════════════════════════════╗
+║              ✅ ScoutIQ - FULLY OPERATIONAL                  ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  🎉 BOTH SERVICES RUNNING                                    ║
+║                                                              ║
+║  🔧 Backend:                                                 ║
+║     ✅ http://localhost:8000                                 ║
+║     ✅ Database: Connected (19 tables)                       ║
+║     ✅ API: /status, /query, /ai-summary                     ║
+║                                                              ║
+║  🎨 Frontend:                                                ║
+║     ✅ http://localhost:3000                                 ║
+║     ✅ React + Mapbox                                        ║
+║     ✅ Material-UI                                           ║
+║                                                              ║
+║  🌐 ACCESS YOUR APP:                                         ║
+║                                                              ║
+║     👉 http://localhost:3000                                 ║
+║                                                              ║
+║  📊 What You Can Do:                                         ║
+║     • Search properties by county                            ║
+║     • Filter by valuation range                              ║
+║     • View color-coded markers on map                        ║
+║     • Click properties for details                           ║
+║     • Get AI insights (Buy/Hold/Watch)                       ║
+║     • Toggle layers (Heatmap, Parcels, Floods)               ║
+║                                                              ║
+║  🛑 To Stop:                                                 ║
+║     kill $(cat logs/backend.pid logs/frontend.pid)          ║
+║                                                              ║
+║  📝 Logs:                                                    ║
+║     tail -f logs/backend.log                                 ║
+║     tail -f logs/frontend.log                                ║
+║                                                              ║
+║  🔄 To Restart:                                              ║
+║     ./START.sh                                               ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝

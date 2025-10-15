@@ -1,0 +1,23 @@
+Database to Dataset Mappings
+===============================
+
+- Domain: tax_assessor
+  Table:  blackland_capital_group_taxassessor_0001_sample
+  Notes:  Property tax assessment data
+
+- Domain: avm
+  Table:  blackland_capital_group_avm_0002
+  Notes:  Automated valuation model data
+
+- Domain: recorder
+  Table:  blackland_capital_group_recorder_0001_sample
+  Notes:  Property transaction records
+
+- Domain: deletes
+  Table:  blackland_capital_group_propertydeletes_0001
+  Notes:  Property deletion records
+
+- Domain: parcels
+  Table:  blackland_capital_group_propertytoboundarymatch_parcel_0003
+  Notes:  Property boundary and parcel data
+

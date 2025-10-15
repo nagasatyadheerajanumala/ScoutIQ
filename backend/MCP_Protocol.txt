@@ -1,0 +1,26 @@
+Model Context Protocol (MCP) Summary
+====================================
+
+Endpoints
+---------
+- scoutgpt_analysis: http://localhost:8001/api/analyze [POST]
+
+Contracts
+---------
+Contract: property_analysis
+Input Schema:
+  - property_id: string
+  - address: string
+  - valuation: number
+  - ownership_type: string
+  - loan_maturity: date
+  - flood_risk: string
+  - tax_delinquent: boolean
+Output Schema:
+  - classification: string
+  - confidence: number
+  - summary: string
+  - insights: array
+  - risk_level: string
+
+
