@@ -105,7 +105,7 @@ sudo systemctl enable postgresql
 
 **1. Clone the Repository:**
 ```bash
-git clone https://github.com/YOUR_USERNAME/ScoutIQ.git
+git clone https://github.com/nagasatyadheerajanumala/ScoutIQ.git
 cd ScoutIQ
 ```
 
@@ -246,7 +246,7 @@ services:
 - name: backend
   source_dir: backend
   github:
-    repo: YOUR_USERNAME/ScoutIQ
+    repo: nagasatyadheerajanumala/ScoutIQ
     branch: main
   run_command: uvicorn main:app --host 0.0.0.0 --port $PORT
   environment_slug: python
